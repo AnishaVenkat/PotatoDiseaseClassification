@@ -18,3 +18,6 @@ loss: 0.0433 - accuracy: 0.9844 - val_loss: 0.0333 - val_accuracy: 0.9883
 This DNN gives us 100% confidence.
 
 Predictions on Sample images are shown below:
+
+![image](https://user-images.githubusercontent.com/26068822/187955545-b09a5048-f4ab-4b4a-82d8-6de149a48fc1.png)
+
